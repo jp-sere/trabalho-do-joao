@@ -1,0 +1,22 @@
+C:\Users\labsc3\Downloads\pasta sabs e jp\Trabalho Base\Trabalho 2C\bin\Debug\Trabalho 2C.exe.config
+C:\Users\labsc3\Downloads\pasta sabs e jp\Trabalho Base\Trabalho 2C\bin\Debug\Trabalho 2C.exe
+C:\Users\labsc3\Downloads\pasta sabs e jp\Trabalho Base\Trabalho 2C\bin\Debug\Trabalho 2C.pdb
+C:\Users\labsc3\Downloads\pasta sabs e jp\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho 2C.csprojResolveAssemblyReference.cache
+C:\Users\labsc3\Downloads\pasta sabs e jp\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho_2C.FormPrincipal.resources
+C:\Users\labsc3\Downloads\pasta sabs e jp\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho_2C.FormInicial.resources
+C:\Users\labsc3\Downloads\pasta sabs e jp\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho_2C.Properties.Resources.resources
+C:\Users\labsc3\Downloads\pasta sabs e jp\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho 2C.csproj.GenerateResource.cache
+C:\Users\labsc3\Downloads\pasta sabs e jp\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho 2C.csproj.CoreCompileInputs.cache
+C:\Users\labsc3\Downloads\pasta sabs e jp\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho 2C.exe
+C:\Users\labsc3\Downloads\pasta sabs e jp\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho 2C.pdb
+C:\Users\Shirley Tiago\Downloads\pasta sabs e jp\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho 2C.csprojResolveAssemblyReference.cache
+C:\Users\Shirley Tiago\Downloads\pasta sabs e jp\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho_2C.form2.resources
+C:\Users\Shirley Tiago\Downloads\pasta sabs e jp\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho_2C.FormPrincipal.resources
+C:\Users\Shirley Tiago\Downloads\pasta sabs e jp\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho_2C.FormInicial.resources
+C:\Users\Shirley Tiago\Downloads\pasta sabs e jp\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho_2C.Properties.Resources.resources
+C:\Users\Shirley Tiago\Downloads\pasta sabs e jp\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho 2C.csproj.GenerateResource.Cache
+C:\Users\Shirley Tiago\Downloads\pasta sabs e jp\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho 2C.exe
+C:\Users\Shirley Tiago\Downloads\pasta sabs e jp\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho 2C.pdb
+C:\Users\Shirley Tiago\Downloads\pasta sabs e jp\Trabalho Base\Trabalho 2C\bin\Debug\Trabalho 2C.exe.config
+C:\Users\Shirley Tiago\Downloads\pasta sabs e jp\Trabalho Base\Trabalho 2C\bin\Debug\Trabalho 2C.exe
+C:\Users\Shirley Tiago\Downloads\pasta sabs e jp\Trabalho Base\Trabalho 2C\bin\Debug\Trabalho 2C.pdb
